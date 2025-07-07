@@ -41,7 +41,6 @@ The dataset used is the [UNSW-NB15](https://research.unsw.edu.au/projects/unsw-n
 git clone https://github.com/yourusername/network-dashboard.git
 cd network-dashboard
 ```
-## Screenshots
 
 ## Screenshots
 
